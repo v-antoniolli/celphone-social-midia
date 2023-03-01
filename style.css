@@ -10,7 +10,7 @@
 
 body, main{
   width: 100vw;
-  height: 130vh;
+  height: 100vh;
   background-image: url(pacote-d013/imagens/fundo-madeira.jpg);
   position: relative;
   background-attachment: fixed;
